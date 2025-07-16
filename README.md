@@ -67,6 +67,7 @@ Each road stores a creation timestamp. The age is visualized through color gradi
 | 15–30       | Yellow  |
 | 30–50       | Orange  |
 | 50+         | Red     |
+
 This helps you see how the city evolved over time.
 
 ## Installation
